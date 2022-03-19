@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Esa</title>
+		
+		<style>
+		.Box1
+		{
+			postion: relative;
+			height: 50%;
+			margin-left:5%;
+			float:left;
+			width : 20%;
+			background-color:yellowgreen;
+			overflow:auto;
+		}
+		.Text1
+		{
+		position: relative;	
+		margin-left: 40%;
+		width : 40%;
+		float:left;
+		margin-top: 50%;
+		overflow:auto;
+		}
+		
+		.BottomText1
+		{
+			position:relative;
+			margin-top: 95%;
+			width: 100%;
+			background-color:gold;
+			height: 5%;
+			overflow:auto;
+		}
+		.BottomText2
+		{
+			height:150px;
+			width:50%;
+			background-color: green;
+			overflow:auto;
+		}
+		</style>
+
+
+
+	</head>
+	
+	<body>
+		
+		<div class ="Box1">
+			<div class = "Text1">
+				<h3>Aliens are real!</h3>
+				<p>here is why</p>
+			</div>
+			
+			
+			
+			
+			
+			<div class="BottomText1">	
+				<div class="BottomText2">
+					
+					<p>UFO In Kansas!</p>
+					<br />
+					<br />
+					<p>Rumor or Truth?</p>
+					<p>Rumor or Truth?</p>
+					<p>Rumor or Truth?</p>
+					<p>Rumor or Truth?</p>
+				</div>
+			</div>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<div class ="Box1">
+			<div class = "Text1">
+					<h3>Banana Invades Earth!</h3>
+					<p>Pottasium</p>	
+			</div>
+			
+			
+			<div class="BottomText1">
+				<div class= "BottomText2">
+					<p>brrrrrrr</p>
+					<br />
+					<p>Yellow</p>
+				</div>
+				
+			</div>
+		</div>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<div class ="Box1">
+			<div class = "Text1">
+				<h3>Moon rocks?</h3>
+				<br />
+				<p>Moon Rocks</p>
+			</div>
+			
+			
+			<div class="BottomText1">
+				
+				<div class= "BottomText2">
+					<h3>Moon rocks?</h3>
+					<br />
+					<p>Moon Rocks</p>
+				</div>
+			</div>
+		<div/>
+		
+	</body>
+</html>
+
